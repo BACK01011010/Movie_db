@@ -5,9 +5,8 @@
 前端：NodeJS22
 开发⼯具：IDEA2024.1、HBuilderX
 ## 技术栈
-后端：SpringBoot3+ Mybatis
-前端：Vue3 + Element‐plus
-数据库：Mysql8
+后端：SpringBoot3+Mybatis
+前端：Vue3+Element‐plus
 ## 项目启动
 后端配置：
 1、配置jdk
