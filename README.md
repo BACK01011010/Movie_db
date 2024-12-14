@@ -8,3 +8,12 @@
 后端：SpringBoot3+ Mybatis
 前端：Vue3 + Element‐plus
 数据库：Mysql8
+## 项目启动
+后端配置：
+1、配置jdk
+2、选择本地maven、加载依赖
+前端配置
+```javascript
+npm install
+npm run dev 
+
